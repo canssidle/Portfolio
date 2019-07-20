@@ -24,7 +24,7 @@
   
   color: black;
 }
-/* 
+
 
 #Projects{
   background-image: url('https://images.pexels.com/photos/1050305/pexels-photo-1050305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
@@ -54,7 +54,7 @@ body{
 .navbar-brand img {
   height: 2rem;
 }
-.navbar-nav li{
+/* .navbar-nav li{
   padding-right: .7rem;
 }
 .navbar-dark .navbar-nav .nav-link {
@@ -144,5 +144,5 @@ hr.socket{
   border-top: .2rem solid #666b71;
   margin-top: 3rem;
 }
-
  */
+
