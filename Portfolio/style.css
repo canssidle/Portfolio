@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css?family=Courgette|Literata&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Literata&display=swap');
 
 
 #Home{
@@ -24,7 +24,7 @@
   
   color: black;
 }
-
+/* 
 
 #Projects{
   background-image: url('https://images.pexels.com/photos/1050305/pexels-photo-1050305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
