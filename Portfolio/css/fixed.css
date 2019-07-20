@@ -1,4 +1,4 @@
-/* 
+
 [class*="col-"] {
   padding: 1rem;
 }
@@ -64,4 +64,4 @@ margin-right: 0px!important;
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
   will-change: transform;
-} */
+}
