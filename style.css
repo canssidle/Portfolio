@@ -8,37 +8,43 @@ body{
   height:100vh;
 }
 #About{
-  background-image: url('https://images.pexels.com/photos/1050305/pexels-photo-1050305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-color: #343A40;
   background-repeat: no-repeat;
   background-size: cover; 
   width: 100%;
   height:100vh;
 
-  color: black;
+  color: white;
 }
 #Skills{
-  background-image: url('https://images.pexels.com/photos/1050305/pexels-photo-1050305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-color: #343A40;
   background-repeat: no-repeat;
   background-size: cover; 
   width: 100%;
   height:100vh;
   font-size: 20px;
   
-  color: black;
+  color: white;
 }
 
 
 #Projects{
-  background-image: url('https://images.pexels.com/photos/1050305/pexels-photo-1050305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-color: #343A40;
   background-repeat: no-repeat;
   background-size: cover; 
   width: 100%;
   height:100vh;
+  color: black;
+
  
+}
+#Projects.h1{
+  color: white;
 }
 #Contacts{
   width: 100%;
   height:50vh;
+  color: white;
 }
 body{
   overflow-x: hidden;
@@ -146,5 +152,14 @@ hr.socket{
   border-top: .2rem solid #666b71;
   margin-top: 3rem;
 }
+.lead{
+    color: white;
+  
+    
+    transition: width 2s;
+  
+  
+}
+
 
 
